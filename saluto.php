@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
- 
 <?php
-echo 'Ciao vise';
+echo 'Ciao vise<br>';
+echo 'Mommy where are you???';
 ?>
-
-</body>
-</html>
